@@ -1,0 +1,24 @@
+# IDE files
+*.idea/
+*.vscode/
+*.vs/
+
+# Build artifacts
+/dist/
+/build/
+*.o
+*.out
+*.class
+*.pyc
+*.pdb
+
+# Dependencies
+/node_modules/
+/.venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
